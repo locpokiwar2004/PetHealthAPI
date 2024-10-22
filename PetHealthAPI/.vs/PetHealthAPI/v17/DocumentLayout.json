@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\PetHealthAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|c:\\code\\pethealthapi\\pethealthapi\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|solutionrelative:pethealthapi\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|c:\\code\\pethealthapi\\pethealthapi\\controllers\\hosokbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|solutionrelative:pethealthapi\\controllers\\hosokbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|c:\\code\\pethealthapi\\pethealthapi\\controllers\\ct_hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|solutionrelative:pethealthapi\\controllers\\ct_hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|c:\\code\\pethealthapi\\pethealthapi\\controllers\\hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|solutionrelative:pethealthapi\\controllers\\hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|c:\\code\\pethealthapi\\pethealthapi\\controllers\\thuoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|solutionrelative:pethealthapi\\controllers\\thuoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|c:\\code\\pethealthapi\\pethealthapi\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|solutionrelative:pethealthapi\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|c:\\code\\pethealthapi\\pethealthapi\\controllers\\chinhanhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|solutionrelative:pethealthapi\\controllers\\chinhanhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|c:\\code\\pethealthapi\\pethealthapi\\controllers\\thucungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|solutionrelative:pethealthapi\\controllers\\thucungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|c:\\code\\pethealthapi\\pethealthapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|solutionrelative:pethealthapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|c:\\code\\pethealthapi\\pethealthapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|solutionrelative:pethealthapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|c:\\code\\pethealthapi\\pethealthapi\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|solutionrelative:pethealthapi\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|c:\\code\\pethealthapi\\pethealthapi\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|solutionrelative:pethealthapi\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|c:\\code\\pethealthapi\\pethealthapi\\models\\chinhanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|solutionrelative:pethealthapi\\models\\chinhanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|c:\\code\\pethealthapi\\pethealthapi\\models\\hosokb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|solutionrelative:pethealthapi\\models\\hosokb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|c:\\code\\pethealthapi\\pethealthapi\\models\\ct_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|solutionrelative:pethealthapi\\models\\ct_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|c:\\code\\pethealthapi\\pethealthapi\\models\\thuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|solutionrelative:pethealthapi\\models\\thuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|c:\\code\\pethealthapi\\pethealthapi\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|solutionrelative:pethealthapi\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|c:\\code\\pethealthapi\\pethealthapi\\models\\thucung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|solutionrelative:pethealthapi\\models\\thucung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|c:\\code\\pethealthapi\\pethealthapi\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BB0C3E-2A71-4113-87F1-0029CB1D7852}|PetHealthAPI\\PetHealthAPI.csproj|solutionrelative:pethealthapi\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HoSoKBController.cs",
+              "DocumentMoniker": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Controllers\\HoSoKBController.cs",
+              "RelativeDocumentMoniker": "PetHealthAPI\\Controllers\\HoSoKBController.cs",
+              "ToolTip": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Controllers\\HoSoKBController.cs",
+              "RelativeToolTip": "PetHealthAPI\\Controllers\\HoSoKBController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAwwEwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:22:56.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CT_HoaDonController.cs",
+              "DocumentMoniker": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Controllers\\CT_HoaDonController.cs",
+              "RelativeDocumentMoniker": "PetHealthAPI\\Controllers\\CT_HoaDonController.cs",
+              "ToolTip": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Controllers\\CT_HoaDonController.cs",
+              "RelativeToolTip": "PetHealthAPI\\Controllers\\CT_HoaDonController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAwwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:22:35.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HoaDonController.cs",
+              "DocumentMoniker": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Controllers\\HoaDonController.cs",
+              "RelativeDocumentMoniker": "PetHealthAPI\\Controllers\\HoaDonController.cs",
+              "ToolTip": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Controllers\\HoaDonController.cs",
+              "RelativeToolTip": "PetHealthAPI\\Controllers\\HoaDonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:21:38.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThuocController.cs",
+              "DocumentMoniker": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Controllers\\ThuocController.cs",
+              "RelativeDocumentMoniker": "PetHealthAPI\\Controllers\\ThuocController.cs",
+              "ToolTip": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Controllers\\ThuocController.cs",
+              "RelativeToolTip": "PetHealthAPI\\Controllers\\ThuocController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:20:31.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NhanVienController.cs",
+              "DocumentMoniker": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Controllers\\NhanVienController.cs",
+              "RelativeDocumentMoniker": "PetHealthAPI\\Controllers\\NhanVienController.cs",
+              "ToolTip": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Controllers\\NhanVienController.cs",
+              "RelativeToolTip": "PetHealthAPI\\Controllers\\NhanVienController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:19:53.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChiNhanhController.cs",
+              "DocumentMoniker": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Controllers\\ChiNhanhController.cs",
+              "RelativeDocumentMoniker": "PetHealthAPI\\Controllers\\ChiNhanhController.cs",
+              "ToolTip": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Controllers\\ChiNhanhController.cs",
+              "RelativeToolTip": "PetHealthAPI\\Controllers\\ChiNhanhController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:19:12.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThuCungController.cs",
+              "DocumentMoniker": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Controllers\\ThuCungController.cs",
+              "RelativeDocumentMoniker": "PetHealthAPI\\Controllers\\ThuCungController.cs",
+              "ToolTip": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Controllers\\ThuCungController.cs",
+              "RelativeToolTip": "PetHealthAPI\\Controllers\\ThuCungController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:03:15.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "PetHealthAPI\\Controllers\\KhachHangController.cs",
+              "ToolTip": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Controllers\\KhachHangController.cs",
+              "RelativeToolTip": "PetHealthAPI\\Controllers\\KhachHangController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:59:59.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PetHealthAPI\\Program.cs",
+              "ToolTip": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Program.cs",
+              "RelativeToolTip": "PetHealthAPI\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:56:26.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\code\\PetHealthAPI\\PetHealthAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "PetHealthAPI\\appsettings.json",
+              "ToolTip": "C:\\code\\PetHealthAPI\\PetHealthAPI\\appsettings.json",
+              "RelativeToolTip": "PetHealthAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T16:30:41.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Models\\DbContext.cs",
+              "RelativeDocumentMoniker": "PetHealthAPI\\Models\\DbContext.cs",
+              "ToolTip": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Models\\DbContext.cs",
+              "RelativeToolTip": "PetHealthAPI\\Models\\DbContext.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:26:08.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HoSoKB.cs",
+              "DocumentMoniker": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Models\\HoSoKB.cs",
+              "RelativeDocumentMoniker": "PetHealthAPI\\Models\\HoSoKB.cs",
+              "ToolTip": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Models\\HoSoKB.cs",
+              "RelativeToolTip": "PetHealthAPI\\Models\\HoSoKB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:25:12.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CT_HoaDon.cs",
+              "DocumentMoniker": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Models\\CT_HoaDon.cs",
+              "RelativeDocumentMoniker": "PetHealthAPI\\Models\\CT_HoaDon.cs",
+              "ToolTip": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Models\\CT_HoaDon.cs",
+              "RelativeToolTip": "PetHealthAPI\\Models\\CT_HoaDon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:24:53.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Models\\HoaDon.cs",
+              "RelativeDocumentMoniker": "PetHealthAPI\\Models\\HoaDon.cs",
+              "ToolTip": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Models\\HoaDon.cs",
+              "RelativeToolTip": "PetHealthAPI\\Models\\HoaDon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:24:33.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Thuoc.cs",
+              "DocumentMoniker": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Models\\Thuoc.cs",
+              "RelativeDocumentMoniker": "PetHealthAPI\\Models\\Thuoc.cs",
+              "ToolTip": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Models\\Thuoc.cs",
+              "RelativeToolTip": "PetHealthAPI\\Models\\Thuoc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:23:55.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Models\\NhanVien.cs",
+              "RelativeDocumentMoniker": "PetHealthAPI\\Models\\NhanVien.cs",
+              "ToolTip": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Models\\NhanVien.cs",
+              "RelativeToolTip": "PetHealthAPI\\Models\\NhanVien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:23:28.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChiNhanh.cs",
+              "DocumentMoniker": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Models\\ChiNhanh.cs",
+              "RelativeDocumentMoniker": "PetHealthAPI\\Models\\ChiNhanh.cs",
+              "ToolTip": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Models\\ChiNhanh.cs",
+              "RelativeToolTip": "PetHealthAPI\\Models\\ChiNhanh.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:23:01.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ThuCung.cs",
+              "DocumentMoniker": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Models\\ThuCung.cs",
+              "RelativeDocumentMoniker": "PetHealthAPI\\Models\\ThuCung.cs",
+              "ToolTip": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Models\\ThuCung.cs",
+              "RelativeToolTip": "PetHealthAPI\\Models\\ThuCung.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:21:56.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Models\\KhachHang.cs",
+              "RelativeDocumentMoniker": "PetHealthAPI\\Models\\KhachHang.cs",
+              "ToolTip": "C:\\code\\PetHealthAPI\\PetHealthAPI\\Models\\KhachHang.cs",
+              "RelativeToolTip": "PetHealthAPI\\Models\\KhachHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:20:17.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
